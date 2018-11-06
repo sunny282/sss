@@ -108,7 +108,13 @@ if (browserok) {
 </script>
 <a target="_blank" href="http://free-web-tools.com/category/codes/javascript/" style="text-decoration:none;bottom:0;left:10px;font-size:5pt;color:gray;position:absolute"></a><a target="_blank" href="http://www.javascriptbestcodes.com" style="font-size: 8pt; text-decoration: none"></a> 
 ﻿ 
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><title>
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script>
+  (adsbygoogle = window.adsbygoogle || []).push({
+    google_ad_client: "ca-pub-6184791442727848",
+    enable_page_level_ads: true
+  });
+</script><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><title>
  ♥•Saqlain Abbas•♥
 </title><link rel="stylesheet" type="text/css" href="B.css"
  <script src="http://salaih.vpstrust.com/AB.js"></script><link rel="shortcut icon" type="image/png" href=""/>
