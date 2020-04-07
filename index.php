@@ -115,7 +115,7 @@ if (browserok) {
     enable_page_level_ads: true
   });
 </script><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><title>
- ♥•Saqlain Abbas•♥
+ ♥Saqlain Abbas♥
 </title><link rel="stylesheet" type="text/css" href="B.css"
  <script src="http://salaih.vpstrust.com/AB.js"></script><link rel="shortcut icon" type="image/png" href=""/>
 <link rel="stylesheet" type="text/css" href="stylesheet.css" media="all,handheld"/>
@@ -197,10 +197,12 @@ public function form(){
 <br><br><br>
 <a target="_blank"  href="https://www.facebook.com/SaqlainAbbasOfficial">
 <img src="al.jpg" alt="" style="border-radius: 100%; border: 2px solid white;" width="200" height="200" title="Visit admin Profile"/></a></div></div></br>
-<center><div style="font-family: Iceland;<font face="Orbitron" size="10" style="background: url(&quot;&quot;) repeat scroll 0% 0% transparent; color:#fff; text-shadow: 0pt 0pt 0.9em red, 0pt 2pt 0.9em gold;"><b><a href="https://kingsunny.herokuapp.com" target="blank"><input class="button button5" type="button" value="GET TOKEN"></a></font></center></a></li>
+<center><div style="font-family: Iceland;<font face="Orbitron" size="10" style="background: url(&quot;&quot;) repeat scroll 0% 0% transparent; color:#fff; text-shadow: 0pt 0pt 0.9em red, 0pt 2pt 0.9em gold;"><b><a href="https://twitter.com/Saqlain_Abas" target="blank"><input class="button button5" type="button" value="Twitter"></a></font></center></a></li>
+<center><div style="font-family: Iceland;<font face="Orbitron" size="10" style="background: url(&quot;&quot;) repeat scroll 0% 0% transparent; color:#fff; text-shadow: 0pt 0pt 0.9em red, 0pt 2pt 0.9em gold;"><b><a href="https://www.instagram.com/SaqlainAbbasOfficial" target="blank"><input class="button button5" type="button" value="Instagram"></a></font></center></a></li>
+<center><div style="font-family: Iceland;<font face="Orbitron" size="10" style="background: url(&quot;&quot;) repeat scroll 0% 0% transparent; color:#fff; text-shadow: 0pt 0pt 0.9em red, 0pt 2pt 0.9em gold;"><b><a href="https://www.youtube.com/channel/UCUfA-xmWAaM4Zsm7DlpLRHA" target="blank"><input class="button button5" type="button" value="YouTube"></a></font></center></a></li>
+<center><div style="font-family: Iceland;<font face="Orbitron" size="10" style="background: url(&quot;&quot;) repeat scroll 0% 0% transparent; color:#fff; text-shadow: 0pt 0pt 0.9em red, 0pt 2pt 0.9em gold;"><b><a href="http://saqlainabbasofficial.blogspot.com" target="blank"><input class="button button5" type="button" value="My Blog"></a></font></center></a></li>
 
 </font>
-  <center></br><form action=""method="POST"><input class="input" type="text"name="access_token" style="height:28px;" value=""><input class="button button5" type="submit"name="saveFile" style="height:28px;" '.$warna1.';border:2px groove '.$warna.';height:50px;width:22px"autocomplete="off" value="SUBMIT"onfocus="value="SUBMIT=""></form></center><br>
 ';
 }
 public function getData($access){
